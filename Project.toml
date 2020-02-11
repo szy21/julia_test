@@ -1,0 +1,4 @@
+name = "julia_test"
+uuid = "d0df395f-9f73-47e4-92a8-8dbab3b663dd"
+authors = ["Zhaoyi Shen <pkuszy@gmail.com>"]
+version = "0.1.0"
