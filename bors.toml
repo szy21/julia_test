@@ -1,0 +1,6 @@
+status = [
+  "szy21.julia_test"
+]
+delete_merged_branches = true
+timeout_sec = 86400
+block_labels = [ "do-not-merge-yet" ]
